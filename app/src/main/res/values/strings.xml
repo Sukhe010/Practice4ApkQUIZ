@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice4Apk</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_java_quiz">Welcome to Java quiz</string>
+    <string name="todoo">TODO</string>
+    <string name="welcome_to_java_quiz2">Welcome to Java quiz</string>
+    <string name="no">NO</string>
+    <string name="java_was_introduced_in_1823">Java was introduced in 1823?</string>
+    <string name="yes">YES</string>
+</resources>
